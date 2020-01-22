@@ -1,0 +1,17 @@
+Label {
+    font-size: 20px;
+    -unity-font-style: bold;
+    color: rgb(68, 138, 255);
+}
+
+ObjectField 
+{
+
+	flex: 0.25;
+	height: 20px;
+	margin-top: 15px;
+	min-width: 70px;
+	margin-left: 10px;
+	margin-right: 0px;
+	
+}
